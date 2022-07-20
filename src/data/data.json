@@ -1,10 +1,10 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "Welcome to Grave",
+    "paragraph": "Service, Design Layout and Electrical Wiring for all is available"
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "The Automatic Power Factor Control or APFC Panels are mainly used to improve the Power Factor. Power Factor is the ratio of active power to apparent power and it plays an important role in measuring electrical consumption of utility. It is very helpful for reducing the bill amount and also avoids the power factor penalty. The APFC panel design is available for both industrial and domestic (household) customers",
     "Why": [
       "Lorem ipsum dolor",
       "Tempor incididunt",
@@ -18,51 +18,116 @@
       "Lorem ipsum dolor"
     ]
   },
+  "Mcc": {
+    
+    "title" : "MCC (Motor Control Centre)" ,
+    "paragraph": "The MCC panel is known as Motor Control Centre (MCC) that assemble one or more Electrical Component containing MCCB’s, Contactor’s, Different Relay’s and MPCB. A motor control centre can include variable frequency drives (VFD), programmable logic controllers (PLC’s) & metering and it may also be Intelligent Controller based MCC Panel. The MCC panel consists of very advance, robust and most trusted technology as per IEC standard and Indian standard with intelligent drawing designs. Similarly, they are designed as per IS standard IS 8623, IEC 60529. In addition, we provide high quality, cheap, reliable and most robust panels for both industrial and domestic (household) customers."
+  },
+  "LightingPanel": {
+    "title" : "Lighing Panel",
+    "paragraph": "Lighting panels are electrical cabinets used to control electric lighting system for industry, educational institutions, hospitals, offices domestic (household) customers and many more. This panel contains switches and controls for many applications like: street lighting, public area lighting, supermarket, malls, parking’s etc. The body of the outer shell is made of high-grade anti rust materials having anti-power transmission system which can also have the capability to resist the impacts of outside environment. The body parts are installed they just like the home for all internal electrical components. It plays the role of both protecting the control system and ensuring the safety of the end user. We will design them either semi or fully automatic with reliability."
+  },
+  "Plc": {
+    "title" : "PLC’s AND AUTOMATION PANEL",
+    "paragraph": "The next generation control & optimize solutions given to any of the industrial processes with security and reliably will definitely give you the peace of mind in any of the operational environment. The programmable logic control (PLC’s) based automation control systems offer a single, scalable solution to deliver safe, secure communication between real-time deterministic controls and non-deterministic applications to analyze and optimize your operations, maximizing productivity and minimizing downtime. We can convert manual machines into automatic with an aim to improve the performance and quality of the system with high reliability and security through a single controller."
+  },
+  "CngBooster": {
+    "title" : "CNG BOOSTER PANEL",
+    "paragraph": "In this, we will provide Siemens and Schneider brand PLC or we can use as per the requirements of customer. Instead of complete panel design we can also provide electrical wiring, items installations and other support to the customer. As per requirements we can design it fully automatic by using human machine interface (HMI) screen."
+  },
+  "ElectricalDesign": {
+    "title" : "ELECTRICAL DESIGN AND DEVELOPMENT",
+    "paragraph": "As per the understanding and requirements of customer, we can design & develop of electrical layouts in which we can design SLD for power system. It also involves electrical design and implementation of LV & HV systems with various transformers and bus bars with protection system. Further we can also have the design layout along with panel and support for supply, commissioning, operation & maintenance of control panels. In present era of technology with the increase in complexity of electronic devices, computers have become imperative in electrical design, so we are designing electrical layouts by using E-plan & AutoCAD."
+  },
+  "Earthing": {
+    "title" : "EARTHING (Grounding) ",
+    "paragraph": "With the requirements and understanding of customers in the best possible way, we are increasingly engrossed in offering of installing electrical safety to buildings and components through Earthing (Grounding). We will deliver our installation and services in tune with the standards defined by the industry and these services are enormously in demand. 1.Chemical earthing. 2.Conventional earthing. These services are provided by our adept professionals using advanced technologies. Provided service can be availed for our clients at affordable prices within stipulated time frame. We are prominent companies for offering an extensive array of Earthing. The items like: electrodes, nut bolts, plate, chemical, arresters etc used are quality approved and have high compressive strength."
+  },
+
+  "Service": [
+     {
+      "image" : "img/small/apfc.png",
+      "title" : "Automatic Power Factor Control (APFC)",
+      "paragraph": "The Automatic Power Factor Control or APFC Panels are mainly used to improve the Power Factor. Power Factor is the ratio of active power to apparent power and it plays an important role in measuring electrical consumption of utility. It is very helpful for reducing the bill amount and also avoids the power factor penalty. The APFC panel design is available for both industrial and domestic (household) customers"
+     
+    },
+     {
+      "image" : "img/small/mcc.png",
+      "title" : "MCC (Motor Control Centre)" ,
+      "paragraph": "The MCC panel is known as Motor Control Centre (MCC) that assemble one or more Electrical Component containing MCCB’s, Contactor’s, Different Relay’s and MPCB. A motor control centre can include variable frequency drives (VFD), programmable logic controllers (PLC’s) & metering and it may also be Intelligent Controller based MCC Panel. The MCC panel consists of very advance, robust and most trusted technology as per IEC standard and Indian standard with intelligent drawing designs. Similarly, they are designed as per IS standard IS 8623, IEC 60529. In addition, we provide high quality, cheap, reliable and most robust panels for both industrial and domestic (household) customers."
+    },
+     {
+      "image" : "img/small/lightPanel.png",
+      "title" : "Lighing Panel",
+      "paragraph": "Lighting panels are electrical cabinets used to control electric lighting system for industry, educational institutions, hospitals, offices domestic (household) customers and many more. This panel contains switches and controls for many applications like: street lighting, public area lighting, supermarket, malls, parking’s etc. The body of the outer shell is made of high-grade anti rust materials having anti-power transmission system which can also have the capability to resist the impacts of outside environment. The body parts are installed they just like the home for all internal electrical components. It plays the role of both protecting the control system and ensuring the safety of the end user. We will design them either semi or fully automatic with reliability."
+    },
+     {
+      "image" : "img/small/plc.png",
+      "title" : "PLC’s AND AUTOMATION PANEL",
+      "paragraph": "The next generation control & optimize solutions given to any of the industrial processes with security and reliably will definitely give you the peace of mind in any of the operational environment. The programmable logic control (PLC’s) based automation control systems offer a single, scalable solution to deliver safe, secure communication between real-time deterministic controls and non-deterministic applications to analyze and optimize your operations, maximizing productivity and minimizing downtime. We can convert manual machines into automatic with an aim to improve the performance and quality of the system with high reliability and security through a single controller."
+    },
+     {
+      "image" : "img/small/cng.png",
+      "title" : "CNG BOOSTER PANEL",
+      "paragraph": "In this, we will provide Siemens and Schneider brand PLC or we can use as per the requirements of customer. Instead of complete panel design we can also provide electrical wiring, items installations and other support to the customer. As per requirements we can design it fully automatic by using human machine interface (HMI) screen."
+    },
+    {
+      "image" : "img/small/engineering.png",
+      "title" : "ELECTRICAL DESIGN AND DEVELOPMENT",
+      "paragraph": "As per the understanding and requirements of customer, we can design & develop of electrical layouts in which we can design SLD for power system. It also involves electrical design and implementation of LV & HV systems with various transformers and bus bars with protection system. Further we can also have the design layout along with panel and support for supply, commissioning, operation & maintenance of control panels. In present era of technology with the increase in complexity of electronic devices, computers have become imperative in electrical design, so we are designing electrical layouts by using E-plan & AutoCAD."
+    },
+     {
+      "image" : "img/pic/earthing.png",
+      "title" : "EARTHING (Grounding) ",
+      "paragraph": "With the requirements and understanding of customers in the best possible way, we are increasingly engrossed in offering of installing electrical safety to buildings and components through Earthing (Grounding). We will deliver our installation and services in tune with the standards defined by the industry and these services are enormously in demand. 1.Chemical earthing. 2.Conventional earthing. These services are provided by our adept professionals using advanced technologies. Provided service can be availed for our clients at affordable prices within stipulated time frame. We are prominent companies for offering an extensive array of Earthing. The items like: electrodes, nut bolts, plate, chemical, arresters etc used are quality approved and have high compressive strength."
+    }
+  ],
+
   "Gallery": [
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg"
+      "title": "APFC (Automatic Power Factor Control) PANEL",
+      "largeImage": "img/large/apfc.png",
+      "smallImage": "img/small/apfc.png"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/02-large.jpg",
-      "smallImage": "img/portfolio/02-small.jpg"
+      "title": "MCC (Motor Control Centre) PANEL",
+      "largeImage": "img/large/mcc.png",
+      "smallImage": "img/small/mcc.png"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/03-large.jpg",
-      "smallImage": "img/portfolio/03-small.jpg"
+      "title": "LIGHTING PANEL",
+      "largeImage": "img/large/lightPanel.png",
+      "smallImage": "img/small/lightPanel.png"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/04-large.jpg",
-      "smallImage": "img/portfolio/04-small.jpg"
+      "title": "Grounding",
+      "largeImage": "img/large/earthing.png",
+      "smallImage": "img/small/earthing.png"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/05-large.jpg",
-      "smallImage": "img/portfolio/05-small.jpg"
+      "title": "PLC’s ",
+      "largeImage": "img/large/plc.png",
+      "smallImage": "img/small/plc.png"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/06-large.jpg",
-      "smallImage": "img/portfolio/06-small.jpg"
+      "title": "CNG BOOSTER PANEL",
+      "largeImage": "img/large/cng.png",
+      "smallImage": "img/small/cng.png"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/07-large.jpg",
-      "smallImage": "img/portfolio/07-small.jpg"
+      "title": "AUTOMATION PANEL",
+      "largeImage": "img/large/plc.png",
+      "smallImage": "img/small/plc.png"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/08-large.jpg",
-      "smallImage": "img/portfolio/08-small.jpg"
+      "title": "ELECTRICAL DESIGN AND DEVELOPMENT",
+      "largeImage": "img/large/engineering.png",
+      "smallImage": "img/small/engineering.png"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/09-large.jpg",
-      "smallImage": "img/portfolio/09-small.jpg"
+      "title": "EARTHING ",
+      "largeImage": "img/large/earthing.png",
+      "smallImage": "img/small/earthing.png"
     }
   ],
   "Services": [
@@ -152,12 +217,12 @@
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
-    "facebook": "fb.com",
-    "twitter": "twitter.com",
-    "youtube": "youtube.com"
+    "address": "Near NS College of Education, Kalupur Chungi, Lehrara, Sonipat, Haryana 13001",
+    "phone": "+91 94162-02346",
+    "email": "directorgrave@gmail.com, contactgrave@gmail.com",
+    "facebook": "#",
+    "twitter": "#",
+    "youtube": "#"
   },
   "Features": [
     {
